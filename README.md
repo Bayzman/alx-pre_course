@@ -1,3 +1,3 @@
 My first readme
 
-Edited the README.md file
+Practicing how to use Git
